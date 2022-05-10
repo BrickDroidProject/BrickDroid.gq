@@ -3,14 +3,14 @@
 
 body{
     font-family: 'Raleway', sans-serif;
-    background-color: rgb(28, 33, 31);
+    background-color: rgb(65, 66, 58);
 }
 
 .menu{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #314040;
+    background-color: #535e5e;
 }
 
 .menu li, a{
@@ -59,7 +59,7 @@ body{
     text-align: center;
 }
 
-.warning{
+.info{
     text-align: center;
     font-size: 25px;
     color: white;
@@ -81,35 +81,6 @@ body{
     color: white;
     font-size: 19px;
     text-align: center;
-}
-
-.button1 {
-    color: #ffffff;
-    background-color: #2d63c8;
-    font-size: 19px;
-    border: 1px solid #2d63c8;
-    border-radius: 20px;
-    padding: 15px 50px;
-    cursor: pointer;
-}
-.button1:hover {
-    color: #2d63c8;
-    background-color: #ffffff;
-}
-
-.button2 {
-    color: #ffffff;
-    background-color: #006eff;
-    font-size: 19px;
-    border: 1px solid #2d63c8;
-    border-radius: 20px;
-    padding: 15px 50px;
-    cursor: pointer;
-}
-
-.button2:hover {
-    color: #2d63c8;
-    background-color: #ffffff;
 }
 
 .soon {
